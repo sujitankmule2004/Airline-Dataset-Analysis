@@ -1,1 +1,4 @@
 # Airline-Dataset-Analysis
+
+This project report outlines the process, methodologies, and findings from an analysis of synthetic airline data using Qlik. The objective was to extract meaningful insights that could help improve airline operations, customer satisfaction, and overall business performance. By leveraging Qlik's data visualization and analysis capabilities, we were able to identify key trends, patterns, and areas for improvement within the synthetic dataset.
+The project aims to analyze synthetic airline data using Qlik to derive insights into various aspects such as flight performance, customer satisfaction, and operational efficiency. By leveraging Qlik's powerful data visualization and analysis capabilities, the report presents key findings and actionable insights for decision-making.
